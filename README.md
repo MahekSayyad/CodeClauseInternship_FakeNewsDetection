@@ -4,14 +4,6 @@
 ## Overview
 This repository contains a fake news detection project that aims to differentiate between real and fake news using machine learning techniques. The project is implemented in Python and leverages natural language processing for text analysis.
 
-## Table of Contents
-- [Project Details](#project-details)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Dependencies](#dependencies)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Project Details
 - **Dataset:** The project utilizes a dataset consisting of labeled fake and true news articles.
 - **Preprocessing:** The text data is preprocessed to remove noise and transform it into a format suitable for machine learning.
